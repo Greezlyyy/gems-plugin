@@ -1,7 +1,0 @@
-name: Gems
-version: '${project.version}'
-main: dev.wiceh.gems.Gems
-soft-depend: [PlaceholderAPI]
-authors: [ wIceh ]
-commands:
-  gems:
